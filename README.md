@@ -38,6 +38,8 @@ The shell decides if a path is absolute or relative by looking at its first char
 
 ## What is in there?
 
+!ls](/assets/img/ls.jpg)
+
 with command
 
 ```
@@ -48,6 +50,8 @@ we can find out what is in our current directory.
 > ls - short for listing
 
 ## How to move?
+
+![cd](/assets/img/cd.jpg)
 
 with 
 
@@ -60,11 +64,64 @@ we can move around. It stands for "change directory".
 
 ## How to move up in directory?
 
+![cd](/assets/img/cd.jpg)
+
 The parent of a directory is the directory above it.
 
 >in the example above Shell is parent of assets
 
-We can always move around using absolute paths
+We can always move around using absolute paths.
+
+but with 
+
+```
+..
+```
+
+or 
+
+```
+cd ..
+```
+we can move one directory above the one we are currently in. So in parent directory.
+
+A single dot
+
+```
+.
+```
+
+always means current directory.
+
+So if do
+
+```
+ls .
+```
+
+is same as just
+
+```
+ls
+```
+
+## What is tilde ~ ?
+
+> it means your home directory.
+
+```
+ls ~
+```
+
+will always list content of out home directory no matter where we are
+
+and
+
+```
+cd ~
+```
+
+will always take as home.
 
 
 
