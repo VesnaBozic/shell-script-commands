@@ -10,5 +10,29 @@ Before computers had graphical interfaces, though, people typed instructions int
 
 > They are both interfaces for issuing commands to the operating system.
 
+## When we open terminal?
+
+![pwd](/assets/img/pwd.jpg)
+
+with 
+
+```
+pwd
+```
+
+we can find out where we are in the filesystem. Pwd - print working directory
+
+> ***pwd*** prints the apsolute path of our current working directory, which is where the shell runs commands and looks for files by default
+
+## What are absolute and relative path?
+
+* An ***absolute path*** is defined as specifying the location of a file or directory from the root directory(/). In other words,we can say that an absolute path is a complete path from start of actual file system from / directory.
+
+* ***Relative path*** is defined as the path related to the present working directly(pwd). It starts at your current directory and never starts with a / .
+
+
+
+
+
 
 
