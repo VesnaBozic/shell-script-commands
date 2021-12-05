@@ -123,6 +123,8 @@ cd ~
 
 will always take as home.
 
+![home](/assets/img/home.jpg)
+
 
 
 
