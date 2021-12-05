@@ -10,7 +10,7 @@ Before computers had graphical interfaces, though, people typed instructions int
 
 > They are both interfaces for issuing commands to the operating system.
 
-## When we open terminal?
+## Where are we in terminal?
 
 ![pwd](/assets/img/pwd.jpg)
 
@@ -28,7 +28,46 @@ we can find out where we are in the filesystem. Pwd - print working directory
 
 * An ***absolute path*** is defined as specifying the location of a file or directory from the root directory(/). In other words,we can say that an absolute path is a complete path from start of actual file system from / directory.
 
+> An absolute path has the same value no matter where you are.
+
 * ***Relative path*** is defined as the path related to the present working directly(pwd). It starts at your current directory and never starts with a / .
+
+> A relative path specifies a location starting from where you are.
+
+The shell decides if a path is absolute or relative by looking at its first character: If it begins with /, it is absolute. If it does not begin with /, it is relative.
+
+## What is in there?
+
+with command
+
+```
+ls
+```
+we can find out what is in our current directory.
+
+> ls - short for listing
+
+## How to move?
+
+with 
+
+```
+cd
+```
+
+we can move around. It stands for "change directory".
+
+
+## How to move up in directory?
+
+The parent of a directory is the directory above it.
+
+>in the example above Shell is parent of assets
+
+We can always move around using absolute paths
+
+
+
 
 
 
