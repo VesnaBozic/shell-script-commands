@@ -180,6 +180,49 @@ name.txt is "moved" to the newName.txt
 
 > mv will like cp overwrite existing files
 
+## How to delete file?
+
+we use command
+
+```
+rm
+```
+
+> it stands for remove
+
+```
+rm file1.txt file2.txt
+```
+
+will remove both file1.txt and file2.txt
+
+rm removes files and it can't be reversed since the shell doesn't have trash can.
+
+## How to delete directory?
+
+```
+rmdir directory
+```
+
+this command only works wheb=n directory is empty.
+To use this command we would have to delete all files in directory before deleting directory.
+
+## Create directory
+
+```
+mkdir directoryName
+```
+
+## Tmp directory
+
+/tmp directory  is where people and programs often keep files they only need briefly. (Note that /tmp is immediately below the root directory /, not below your home directory.)
+
+
+
+
+
+
+
 
 
 
