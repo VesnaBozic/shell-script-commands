@@ -138,6 +138,26 @@ we can copy files, move them to other directories, organize or rename thame.
 > cp stands for Copy
 
 
+comand
+```
+cp original.txt duplicate.txt
+```
+
+if original.txt will create a copy called duplicate.txt
+if there already was a file called duplicate.txt it will be overwritten.
+
+command with last parameter is an existing directory
+
+``` 
+cp folder/original.txt folder/duplicate.txt folder2
+```
+
+will copy all the fils into folder2
+
+
+
+
+
 
 
 
