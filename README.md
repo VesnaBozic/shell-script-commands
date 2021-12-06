@@ -155,6 +155,34 @@ cp folder/original.txt folder/duplicate.txt folder2
 will copy all the fils into folder2
 
 
+## How to move a file?
+
+with 
+```
+mv
+```
+
+we can move file from one dorectory to another
+
+```
+mv first.txt second.txt ..
+```
+
+will move files first.txt and second.txt from current working directory to its parent directory
+
+## Rename files
+
+```
+mv name.txt newName.txt
+```
+
+name.txt is "moved" to the newName.txt
+
+> mv will like cp overwrite existing files
+
+
+
+
 
 
 
