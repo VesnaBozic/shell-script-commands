@@ -38,7 +38,7 @@ The shell decides if a path is absolute or relative by looking at its first char
 
 ## What is in there?
 
-!ls](/assets/img/ls.jpg)
+![ls](/assets/img/ls.jpg)
 
 with command
 
