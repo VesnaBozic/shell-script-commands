@@ -125,6 +125,21 @@ will always take as home.
 
 ![home](/assets/img/home.jpg)
 
+## Coping files
+
+with 
+
+```
+cp
+```
+
+we can copy files, move them to other directories, organize or rename thame.
+
+> cp stands for Copy
+
+
+
+
 
 
 
