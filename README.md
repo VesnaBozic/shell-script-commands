@@ -218,6 +218,19 @@ mkdir directoryName
 /tmp directory  is where people and programs often keep files they only need briefly. (Note that /tmp is immediately below the root directory /, not below your home directory.)
 
 
+## How to see a file's content?
+
+```
+cat file.txt
+```
+
+will print the contents of files onto the screen
+
+![cat](/assets/img/cat.jpg)
+
+
+
+
 
 
 
