@@ -221,12 +221,79 @@ mkdir directoryName
 ## How to see a file's content?
 
 ```
-cat file.txt
+cat README.md
 ```
 
 will print the contents of files onto the screen
 
 ![cat](/assets/img/cat.jpg)
+
+> cat is short form concatenate meaning to link things together, since it will print all the files whose names we give it one after another.
+
+
+## Use less to see page output
+
+We can use cat to print large files and then scroll through the output, but we can use 
+
+``` 
+less file1.txt file2.txt
+```
+
+to display one page at the time
+
+press ***spacebar*** to page down
+
+press ***q*** to quit
+
+press ***:n*** (colon and lower-case n) to move to the next file
+
+press ***:p*** to go back to previous file
+
+## How to see first few lines in a file?
+
+A quick way to figure out what it contains is to look at the first few rows.
+
+We can do this in the shell using a command called ```head```.
+
+As its name suggests, it prints the first few lines of a file (where "a few" means 10), so the command:
+
+```
+head file1.txt
+```
+
+would display first ten line of the file.
+
+if we write in command flag -n (number of lines)
+
+```
+head -n 3 file1.txt
+```
+
+it will display only first three lines of the file
+
+
+## How to see everything that exist in directory?
+
+if we give -R (recursive) flag to the command
+
+```
+ls -R
+```
+
+it will show every file and directory in the current level, and everything is each subdirectory and so on.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
