@@ -1,5 +1,28 @@
 # Shell Script Basic
 
+## Content
+
+- [What is the difference between the graphical file explorer and the command-line shell?](#what-is-the-difference-between-the-graphical-file-explorer-and-the-command-line-shell)
+- [Where are we in terminal?](#where-are-we-in-terminal)
+- [What is version control system?](#what-is-version-control-system)
+- [What are absolute and relative path?](#what-are-absolute-and-relative-path)
+- [What is in there?](#what-is-in-there)
+- [How to move?](#how-to-move) 
+- [How to move up in directory?](#how-to-move-up-in-directory) 
+- [What is tilde ~ ?](#what-is-tilde-~) 
+- [Coping files](#coping-files) 
+- [How to move a file?](#how-to-move-a-file)
+- [Rename files](#rename-files) 
+- [How to delete file?](#how-to-delete-file) 
+- [How to delete directory?](#how-to-delete-directory)
+- [Create directory](#create-directory) 
+- [Tmp directory](#tmp-directory) 
+- [How to see a file's content?](#how-to-see-a-file's-content) 
+- [Use less to see page output](#use-less-to-see-page-output) 
+- [How to see first few lines in a file?](#how-to-see-first-few-lines-in-a-file)
+- [How to see everything that exist in directory?](#how-to-see-everything-that-exist-in-directory) 
+
+
 Windows, Linux or Mac Os are operating systems that are controling the computer's processor, hard drive, network connection and they run other programs.
 
 Humans, when doing something on the computer, he interacts with the operating system. Today computers have a pretty self-explanatory graphical interface. With double-clicks into commands, we can open, delete, create a new folder.
