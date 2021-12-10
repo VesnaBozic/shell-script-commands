@@ -305,6 +305,19 @@ ls -R
 
 it will show every file and directory in the current level, and everything is each subdirectory and so on.
 
+## HELP
+
+To find out what commands do we use ```man``` command, short from manual
+
+```
+man head
+```
+
+show us informations about head
+
+use spacebar to page throught the information
+
+```q```` for quit
 
 
 
