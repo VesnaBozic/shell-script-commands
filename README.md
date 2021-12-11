@@ -21,7 +21,8 @@
 - [Use less to see page output](#use-less-to-see-page-output) 
 - [How to see first few lines in a file?](#how-to-see-first-few-lines-in-a-file)
 - [How to see everything that exist in directory?](#how-to-see-everything-that-exist-in-directory) 
-
+- [HELP](#help)
+- [REPEATING COMMANDS](#repeating-commands)
 
 Windows, Linux or Mac Os are operating systems that are controling the computer's processor, hard drive, network connection and they run other programs.
 
