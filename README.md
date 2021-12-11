@@ -319,6 +319,25 @@ use spacebar to page throught the information
 
 ```q```` for quit
 
+## REPEATING COMMANDS
+
+We can use up-arrow key to cycle back trough commands that we used
+
+or with command
+
+```
+history
+```
+
+we can see list of commands that we used recently
+
+and with 
+```
+!2
+```
+
+where 2 is number of command that we want to re-run
+
 
 
 
