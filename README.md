@@ -339,6 +339,29 @@ and with
 
 where 2 is number of command that we want to re-run
 
+## GREP
+
+Grep selects lines according to what they contain.
+
+```grep``` takes a piece of text followed by one or more filenames and prints all of the lines inthose files that contain that text.
+
+```
+grep something file.txt
+```
+
+print all of the lines from file.txt that contain "something"
+
+## GREP FLAGS
+
+- ```c```  print a count of matching lines rather than the lines themselves
+- ```h```  do not print the names of files when searching multiple files
+- ```i```  ignore case (e.g., treat "Regression" and "regression" as matches)
+- ```l```  print the names of files that contain matches, not the matches
+- ```n```  print line numbers for matching lines
+- ```v```  invert the match, i.e., only show lines that don't match
+
+
+
 
 
 
