@@ -360,6 +360,20 @@ print all of the lines from file.txt that contain "something"
 - ```n```  print line numbers for matching lines
 - ```v```  invert the match, i.e., only show lines that don't match
 
+## Storing output in a file
+
+We can redirect any command's output anywhere we want.
+
+```
+head -n 5 file1.txt > file2.txt
+```
+
+will write first 5 lines from file1.txt write into a new file called file2.txt
+
+Sign ```>``` tells the shell to redirect output to a file.
+It will work with every shell output.
+
+
 
 
 
