@@ -374,7 +374,11 @@ Sign ```>``` tells the shell to redirect output to a file.
 It will work with every shell output.
 
 
-##
+## COUNT RECORDS IN A FILE
+
+With command ```wc``` (word count) we can print the number of characters, words, and lines in a file
+
+
 
 
 
