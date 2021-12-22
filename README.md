@@ -23,6 +23,7 @@
 - [How to see everything that exist in directory?](#how-to-see-everything-that-exist-in-directory) 
 - [HELP](#help)
 - [REPEATING COMMANDS](#repeating-commands)
+- [HOW TO EXIT](how-to-exit)
 
 Windows, Linux or Mac Os are operating systems that are controling the computer's processor, hard drive, network connection and they run other programs.
 
@@ -377,6 +378,10 @@ It will work with every shell output.
 ## COUNT RECORDS IN A FILE
 
 With command ```wc``` (word count) we can print the number of characters, words, and lines in a file
+
+## How to exit
+
+```ctrl + c```
 
 
 
