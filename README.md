@@ -449,6 +449,7 @@ The cut command slices a line and extracts the text
 
 [Check here for more](https://www.geeksforgeeks.org/cut-command-linux-examples/)
 
+## File Permissions Commands
 
 - chown : Used to change the owner of the file.
 - chgrp : Used to change the group owner of the file.
