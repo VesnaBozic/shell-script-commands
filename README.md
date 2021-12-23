@@ -30,7 +30,7 @@
 - [WC](#wc)
 - [CUT](#cut)
 - [HOW TO EXIT](#how-to-exit)
-- [File Permissions Commands](file-permissions-commands)
+- [File Permissions Commands](#file-permissions-commands)
 - [EXIT](#exit)
 
 Windows, Linux or Mac Os are operating systems that are controling the computer's processor, hard drive, network connection and they run other programs.
