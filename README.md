@@ -29,7 +29,6 @@
 - [SORT](#sort)
 - [WC](#wc)
 - [CUT](#cut)
-- [HOW TO EXIT](#how-to-exit)
 - [File Permissions Commands](#file-permissions-commands)
 - [EXIT](#exit)
 
@@ -451,9 +450,10 @@ The cut command slices a line and extracts the text
 [Check here for more](https://www.geeksforgeeks.org/cut-command-linux-examples/)
 
 
-## File Permissions Commands
+- chown : Used to change the owner of the file.
+- chgrp : Used to change the group owner of the file.
+- chmod : Used to modify the access/permission of a user.
 
-With command ```wc``` (word count) we can print the number of characters, words, and lines in a file
 
 ## EXIT
 
