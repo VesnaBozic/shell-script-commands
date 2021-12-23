@@ -28,9 +28,9 @@
 - [Storing output in a file](#storing-output-in-a-file)
 - [SORT](#sort)
 - [WC](#wc)
-- [CUT[(#cut)
+- [CUT](#cut)
 - [HOW TO EXIT](#how-to-exit)
-- [FILE PERMISSIONS COMMANDS](file-permissions-commands)
+- [File Permissions Commands](file-permissions-commands)
 - [EXIT](#exit)
 
 Windows, Linux or Mac Os are operating systems that are controling the computer's processor, hard drive, network connection and they run other programs.
@@ -395,7 +395,7 @@ Used to count the number of characters, words in a file.
 ## CUT
 
 
-## FILE PERMISSIONS COMMANDS
+## File Permissions Commands
 
 With command ```wc``` (word count) we can print the number of characters, words, and lines in a file
 
