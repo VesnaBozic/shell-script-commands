@@ -384,13 +384,65 @@ It will work with every shell output.
 
 ## SORT
 
-This command is used to sort the contents of files
+This command is used to sort the contents of files.
+
+```
+sort file.txt
+```
+
+sort in reverse order 
+
+```
+sort -r file.txt
+```
+
+to sort file numerically
+
+```
+sort -n file.txt
+```
+
+to sort file numrically in reverse order 
+
+```
+sort -nr file.txt
+```
+
+to sort file and remove duplicates
+
+```
+sort -u file.txt
+```
 
 ## WC
 
 > word count
 
 Used to count the number of characters, words in a file.
+
+It is used to find out number of lines, word count, byte and characters count in the files specified in the file arguments.
+
+```
+wc file.txt
+```
+
+to print number of lines oresent in a file
+
+```
+wc -l file.txt
+```
+
+to display count of bytes presented in a file
+
+```
+wc -c file.txt
+```
+
+to print out the length of longest (number of characters) line in a file
+
+```
+$ wc -L file.txt
+```
 
 ## CUT
 
