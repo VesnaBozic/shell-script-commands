@@ -2,7 +2,7 @@
 
 ## Content
 
-- [What is the difference between the graphical file explorer and the command-line shell?](#what-is-the-difference-between-the-graphical-file-explorer-and-the-command-line-shell)
+- [What is the shell?](#what-is-the-shell)
 - [Where are we in terminal?](#where-are-we-in-terminal)
 - [What is version control system?](#what-is-version-control-system)
 - [What are absolute and relative path?](#what-are-absolute-and-relative-path)
@@ -23,7 +23,15 @@
 - [How to see everything that exist in directory?](#how-to-see-everything-that-exist-in-directory) 
 - [HELP](#help)
 - [REPEATING COMMANDS](#repeating-commands)
+- [GREP](#grep)
+- [GREP FLAGS](#grep-flags)
+- [Storing output in a file](#storing-output-in-a-file)
+- [SORT](#sort)
+- [WC](#wc)
+- [CUT[(#cut)
 - [HOW TO EXIT](how-to-exit)
+- [FILE PERMISSIONS COMMANDS](file-permisions-commands)
+- [EXIT](#exit)
 
 Windows, Linux or Mac Os are operating systems that are controling the computer's processor, hard drive, network connection and they run other programs.
 
@@ -31,9 +39,9 @@ Humans, when doing something on the computer, he interacts with the operating sy
 
 Before computers had graphical interfaces, though, people typed instructions into a program called a command-line shell. Each time a command is entered, the shell runs some other programs, prints their output in human-readable form, and then displays a prompt to signal that it's ready to accept the next command. (Its name comes from the notion that it's the "outer shell" of the computer.)
 
-## What is the difference between the graphical file explorer and the command-line shell?
+## What is the shell?
 
-> They are both interfaces for issuing commands to the operating system.
+A shell is a special user program that provides an interface to the user to use operating system services. Shell accepts human-readable commands from the user and converts them into something which the kernel can understand. It is a command language interpreter that executes commands read from input devices such as keyboards or from files. The shell gets started when the user logs in or starts the terminal. 
 
 ## Where are we in terminal?
 
@@ -374,14 +382,28 @@ will write first 5 lines from file1.txt write into a new file called file2.txt
 Sign ```>``` tells the shell to redirect output to a file.
 It will work with every shell output.
 
+## SORT
 
-## COUNT RECORDS IN A FILE
+This command is used to sort the contents of files
+
+## WC
+
+> word count
+
+Used to count the number of characters, words in a file.
+
+## CUT
+
+
+## FILE PERMISSIONS COMMANDS
 
 With command ```wc``` (word count) we can print the number of characters, words, and lines in a file
 
-## How to exit
+## EXIT
 
 ```ctrl + c```
+
+
 
 
 
