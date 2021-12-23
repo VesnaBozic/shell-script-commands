@@ -446,6 +446,10 @@ $ wc -L file.txt
 
 ## CUT
 
+The cut command slices a line and extracts the text
+
+[Check here for more](https://www.geeksforgeeks.org/cut-command-linux-examples/)
+
 
 ## File Permissions Commands
 
