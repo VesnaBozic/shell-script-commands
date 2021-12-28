@@ -1,5 +1,7 @@
 # Shell Script Basic
 
+[See here](https://vesnabozic.github.io/shell-script-basic-commands/)
+
 ## Content
 
 - [What is the shell?](#what-is-the-shell)
